@@ -244,17 +244,3 @@ input.addEventListener("keypress", e => {
   if (e.key === "Enter") handleSearch();
 });
 
-// Enhanced welcome message with categories
-setTimeout(() => {
-  appendMessage("ai", `👋 Welcome to <strong>Educational Movie AI</strong><br>
-    <small>Discover films that educate, inspire, and transform</small><br><br>
-    
-    <strong>Quick Access:</strong><br>
-    <span class="suggestion-btn" onclick="searchMovie('3 idiots')">3 Idiots</span>
-    <span class="suggestion-btn" onclick="searchMovie('taare zameen par')">Taare Zameen Par</span>
-    <span class="suggestion-btn" onclick="searchMovie('super 30')">Super 30</span>
-    <span class="suggestion-btn" onclick="searchMovie('dangal')">Dangal</span><br><br>
-    
-    <button class="category-btn" onclick="showCategoryMenu()">📚 Browse Categories</button>
-    <button class="more-btn" onclick="showNextMovies()">🎲 Show Random Movies</button>`);
-}, 500);
