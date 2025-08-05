@@ -1,0 +1,105 @@
+{
+  "movies": [
+    {
+      "id": "3 idiots",
+      "title": "3 Idiots (तीन इडियट्स)",
+      "theme": "Engineering Education, Rote Learning",
+      "desc": "Challenges traditional education systems while promoting practical learning and innovation.",
+      "imdb": "8.4",
+      "category": "Educational & Learning",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+      "download": "https://aarifalam.short.gy/3-idiots",
+      "tags": ["engineering", "college life", "innovation"]
+    },
+    {
+      "id": "super 30",
+      "title": "Super 30 (सुपर ३०)",
+      "theme": "IIT Preparation, Educational Equality",
+      "desc": "True story of mathematician Anand Kumar coaching underprivileged students for IIT entrance.",
+      "imdb": "7.9",
+      "category": "Educational & Learning",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Super_30_poster.jpg",
+      "download": "https://prosearch.fatherbot.workers.dev/318205/Super+30+%282019%29+1080p+x264+HS+WEB-DL+Hindi+AAC+2.0+~+TsS+%5BPM.mkv?hash=AgADwh",
+      "tags": ["iit", "mathematics", "poverty"]
+    },
+    {
+      "id": "mission mangal",
+      "title": "Mission Mangal (मिशन मंगल)",
+      "theme": "Space Science, Women in STEM",
+      "desc": "Based on ISRO's Mars Orbiter Mission with focus on women scientists.",
+      "imdb": "6.5",
+      "category": "Science & Technology",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fc/Mission_Mangal.jpg",
+      "download": "https://prosearch.fatherbot.workers.dev/318220/Mission.Mangal.2019.Hindi.1080p.NF.WEB-DL.H264.DDP5.1-DR.mkv?hash=AgADAA",
+      "tags": ["isro", "space", "women scientists"]
+    },
+    {
+      "id": "12th fail",
+      "title": "12th Fail (१२वीं फेल)",
+      "theme": "UPSC Preparation, Perseverance",
+      "desc": "True story of IPS officer Manoj Kumar Sharma overcoming academic failure.",
+      "imdb": "9.2",
+      "category": "Motivation & Life Lessons",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b5/12th_Fail_film_poster.jpg",
+      "download": "https://prosearch.fatherbot.workers.dev/318213/12th.Fail.2023.720p.HS.WEB-DL.MULTI.DD%2B5.1.H.265-CPTN5DW.mkv?hash=AgAD4h",
+      "tags": ["upsc", "struggle", "government exams"]
+    },
+    {
+      "id": "stanley ka dabba",
+      "title": "Stanley Ka Dabba (स्टेनली का डब्बा)",
+      "theme": "Child Rights, Education Access",
+      "desc": "Heartwarming story of a schoolboy who never brings lunch box and his secret struggle.",
+      "imdb": "8.1",
+      "category": "Social Issues & Awareness",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/Stanley_Ka_Dabba_poster.jpg",
+      "download": "https://prosearch.fatherbot.workers.dev/318229/Stanley.Ka.Dabba.2011.720p.BluRay.x264.AAC.mkv?hash=AgADMA",
+      "tags": ["child labor", "poverty", "school life"]
+    },
+    {
+      "id": "hindi medium",
+      "title": "Hindi Medium (हिंदी मीडियम)",
+      "theme": "Education Inequality, Language Barrier",
+      "desc": "A couple's struggle to get their daughter admitted in elite English-medium school.",
+      "imdb": "8.0",
+      "category": "Social Issues & Awareness",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/81/Hindi_Medium.jpg",
+      "download": "https://prosearch.fatherbot.workers.dev/318200/%5BCC%5D.Hindi+Medium+%282017%29+Hindi+720p+HDRip+x264+AAC+ESubs.mkv?hash=AgADCA",
+      "tags": ["language divide", "school admission", "social class"]
+    }
+  ],
+  "alternateNames": {
+    "3idiots": "3 idiots",
+    "three idiots": "3 idiots",
+    "3 ediots": "3 idiots",
+    "engineering movie": "3 idiots",
+    "iit movie": "3 idiots",
+    "super30": "super 30",
+    "supar30": "super 30",
+    "supar 30": "super 30",
+    "super thirty": "super 30",
+    "anand kumar movie": "super 30",
+    "iit coaching movie": "super 30",
+    "tzp": "taare zameen par",
+    "stars on earth": "taare zameen par",
+    "dyslexia movie": "taare zameen par",
+    "amir khan teacher movie": "taare zameen par",
+    "12fail": "12th fail",
+    "upsc movie": "12th fail",
+    "ips officer movie": "12th fail",
+    "government exam movie": "12th fail",
+    "mission mangal": "mission mangal",
+    "mars mission": "mission mangal",
+    "isro movie": "mission mangal",
+    "space movie": "mission mangal",
+    "women scientists movie": "mission mangal",
+    "wrestling movie": "dangal",
+    "phogat sisters": "dangal",
+    "sports movie": "dangal"
+  },
+  "categoryDescriptions": {
+    "Educational & Learning": "Movies about education systems, teaching methods, and learning experiences",
+    "Science & Technology": "Films showcasing scientific achievements and technological innovation",
+    "Motivation & Life Lessons": "Inspiring true stories and life-changing narratives",
+    "Social Issues & Awareness": "Movies highlighting educational challenges and social reforms"
+  }
+}

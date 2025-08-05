@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Discover educational Indian movies for students, teachers, and parents. Get recommendations and downloads for inspiring films.">
+  <meta name="keywords" content="educational movies, Indian films, learning movies, student motivation, teacher resources">
+  <meta property="og:title" content="Educational Movie AI - Discover Learning Films">
+  <meta property="og:description" content="Find the best educational Indian movies categorized for students, teachers and parents.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#4361ee">
+  <title>Educational Movie AI | Learning Through Cinema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="EduMovie.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+</head>
+<body>
+  <div class="chat-wrapper" role="main">
+    <header class="site-header" aria-label="Application header">
+      <h1 aria-label="Educational Movie AI">🎬 Educational Movie AI</h1>
+      <p aria-label="Disclaimer">Only for students who don't have money to buy the movie. If you are able to buy, then please go to the official forum and support the creator!</p>
+    </header>
+
+    <div id="chat-box" role="log" aria-live="polite">
+      <!-- Chat messages will be inserted here by JavaScript -->
+    </div>
+
+    <div class="input-area" role="form">
+      <input 
+        type="text" 
+        id="user-input" 
+        placeholder="Search movies like '3 idiots', 'super 30'..." 
+        aria-label="Search for educational movies"
+        autocomplete="off"
+        enterkeyhint="send"
+      />
+      <button 
+        id="send-btn" 
+        aria-label="Send message"
+        title="Send your movie request"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M22 2L11 13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Loading important scripts asynchronously -->
+  <script src="edu.js" defer></script>
+  <script src="edu1.js" defer></script>
+
+  <!-- Structured data for SEO -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Educational Movie AI",
+      "description": "Discover educational Indian movies categorized for students, teachers and parents",
+      "applicationCategory": "EducationalApplication",
+      "operatingSystem": "Web Browser",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  </script>
+</body>
+</html>
