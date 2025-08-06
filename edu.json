@@ -7,8 +7,8 @@
       "desc": "Challenges traditional education systems while promoting practical learning and innovation.",
       "imdb": "8.4",
       "category": "Educational & Learning",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
-      "download": "https://aarifalam.short.gy/3-idiots",
+      "thumbnail": "https://www.imdb.com/title/tt1187043/mediaviewer/rm2029391104/?ref_=ext_shr_lnk",
+      "download": "https://aal.short.gy/3-idiots",
       "tags": ["engineering", "college life", "innovation"]
     },
     {
@@ -19,8 +19,30 @@
       "imdb": "7.9",
       "category": "Educational & Learning",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Super_30_poster.jpg",
-      "download": "https://prosearch.fatherbot.workers.dev/318205/Super+30+%282019%29+1080p+x264+HS+WEB-DL+Hindi+AAC+2.0+~+TsS+%5BPM.mkv?hash=AgADwh",
+      "download": "https://aal.short.gy/super 30",
       "tags": ["iit", "mathematics", "poverty"]
+    },
+     {
+      "id": "Sitaare Zameen Par",
+      "title": "Sitaare-Zameen-Par-2025",
+      "theme": "Champions, Educational Equality",
+      "desc": "Sitaare-Zameen-Par-2025 [1080p hd] ",
+      "imdb": "7.9",
+      "category": "Educational & Learning",
+      "thumbnail": "https://www.imdb.com/title/tt29471573/mediaviewer/rm2549253634/?ref_=ext_shr_lnk",
+      "download": "https://aal.short.gy/Sitaare-Zameen-Par-2025",
+      "tags": [ "Champions", "poverty"]
+    },
+         {
+      "id": "Sitaare Zameen Par",
+      "title": "Sitaare-Zameen-Par-2025",
+      "theme": "Champions, Educational Equality",
+      "desc": "Sitaare-Zameen-Par-2025 [720p hd] ",
+      "imdb": "7.9",
+      "category": "Educational & Learning",
+      "thumbnail": "https://www.imdb.com/title/tt29471573/mediaviewer/rm2549253634/?ref_=ext_shr_lnk",
+      "download": "https://aal.short.gy/Sitaare-Zameen-Par-2025-720p",
+      "tags": [ "Champions", "poverty"]
     },
     {
       "id": "mission mangal",
@@ -102,4 +124,5 @@
     "Motivation & Life Lessons": "Inspiring true stories and life-changing narratives",
     "Social Issues & Awareness": "Movies highlighting educational challenges and social reforms"
   }
+
 }
